@@ -1,5 +1,5 @@
 # SRIDHAR KANDI  
-**Baltimore, Maryland** | +1 (443)-876-8155 | sridharkandi@umbc.edu | [linkedin.com/in/sridharkandi/](https://linkedin.com/in/sridharkandi/) | [github.com/sridhar051](https://github.com/sridhar051)  
+Baltimore, Maryland | +1 (443)-876-8155 | sridharkandi@umbc.edu | [linkedin.com/in/sridharkandi/](https://linkedin.com/in/sridharkandi/) | [github.com/sridhar051](https://github.com/sridhar051)  
 
 ---
 
