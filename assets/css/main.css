@@ -7,3 +7,21 @@
   transform: rotate(360deg) scale(1.1);
   filter: drop-shadow(0 0 8px rgba(0,150,255,0.4));
 }
+
+:root {
+  --bg-color: #ffffff;
+  --text-color: #333333;
+  --accent: #0066cc;
+}
+
+.dark-mode {
+  --bg-color: #1a1a1a;
+  --text-color: #f0f0f0;
+  --accent: #33a6ff;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background 0.3s, color 0.3s;
+}
