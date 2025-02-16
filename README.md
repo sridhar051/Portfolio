@@ -71,6 +71,8 @@ GPA: **3.6/4.0**
 - **Microsoft Certified AI Fundamentals**  
 - **Microsoft Certified Database Administrator**  
 
+---
+
 ### ACTIVITIES & AWARDS  
 - **Micron’s People’s Choice Award** for *AI Meeting Outliner* presented at a national seminar.  
 - **Top-Notch Teamwork Award** for automating Return Management, reducing approval time by **70%**.  
