@@ -1,1 +1,9 @@
+#logo {
+  transition: all 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+  cursor: pointer;
+}
 
+#logo:hover {
+  transform: rotate(360deg) scale(1.1);
+  filter: drop-shadow(0 0 8px rgba(0,150,255,0.4));
+}
